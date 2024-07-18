@@ -18,7 +18,7 @@ My current research interests are in **Speech Processing and NLP**. Specifically
 
 ## News
 
-- **[June. 2020]** The EFFUSE paper is accepted at Interspeech 2024!
+- **[June. 2024]** The EFFUSE paper is accepted at Interspeech 2024!
 
 {% include_relative _includes/publications.md %}
 
