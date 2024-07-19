@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2310.03938
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/predict.png
-    notes: 
+    notes: Poster Presentation
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
