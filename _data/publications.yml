@@ -9,13 +9,11 @@ main:
     image: ./assets/img/Predict.png
     notes: Poster Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Hypothesis Generation with Large Language Models"
+    authors: Yangqiaoyu Zhou, Haokun Liu, <strong>Tejes Srivastava</strong>, Hongyuan Mei, Chenhao Tan
+    conference_short: Preprint
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2404.04326
+    code: https://github.com/ChicagoHAI/hypothesis_generation
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
     image: ./assets/img/teaser_example.png
