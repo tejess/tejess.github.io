@@ -5,7 +5,6 @@ main:
     conference_short: Interspeech
     conference: Proceedings of the 25th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2024
     pdf: https://arxiv.org/pdf/2310.03938
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Predict.png
     notes: Poster Presentation
 
@@ -15,5 +14,4 @@ main:
     conference: Arxiv Preprint
     pdf: https://arxiv.org/pdf/2404.04326
     code: https://github.com/ChicagoHAI/hypothesis_generation
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/hypogenic_figure1_large_font-1.pdf
