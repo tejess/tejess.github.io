@@ -1,6 +1,6 @@
 main:
 
-  - title: EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
+  - title: "EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios"
     authors: <strong>Tejes Srivastava</strong>, Jiatong Shi, William Chen, Shinji Watanabe
     conference_short: Interspeech
     conference: Proceedings of the 25th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2024
