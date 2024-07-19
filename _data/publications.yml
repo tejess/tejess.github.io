@@ -6,7 +6,7 @@ main:
     conference: Proceedings of the 25th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2024
     pdf: https://arxiv.org/pdf/2310.03938
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/predict.png
+    image: ./assets/img/Predict.png
     notes: Poster Presentation
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
