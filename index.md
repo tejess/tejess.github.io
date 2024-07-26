@@ -13,8 +13,8 @@ If you are interested in collaborating or just talking, feel free to reach out t
 ## Research Interests
 
 My current research interests are in **Speech Processing and NLP**. Specifically, I have been working towards creating lightweight architectures in my previous and current works on Speech Processing. In my work with NLP, I have focused on exploring the use of LLMs as tools. The following are some directions I am exploring/would love to explore: 
-- **Speech:** development of foundation models, interpretability, development of efficient/new architectures for ASR and SLU
-- **Text:** interpretability, multi-agent frameworks, LLMs for science/social science
+- **Speech:** development of foundation models, development of efficient/new architectures for ASR and SLU
+- **Text:** understanding how LLMs work, LLMs for science/social science
 
 ## News
 
