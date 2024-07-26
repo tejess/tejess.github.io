@@ -22,4 +22,3 @@ My current research interests are in **Speech Processing and NLP**. Specifically
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
