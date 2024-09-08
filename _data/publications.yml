@@ -6,7 +6,7 @@ main:
     conference: Proceedings of the 25th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2024
     pdf: https://arxiv.org/pdf/2310.03938
     image: ./assets/img/Predict.png
-    notes: Poster Presentation
+    notes: Best Paper at Interspeech 2024
 
   - title: "Hypothesis Generation with Large Language Models"
     authors: Yangqiaoyu Zhou, Haokun Liu, <strong>Tejes Srivastava</strong>, Hongyuan Mei, Chenhao Tan
