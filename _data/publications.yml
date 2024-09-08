@@ -23,5 +23,5 @@ main:
     conference_short: Preprint
     conference: Arxiv Preprint
     pdf: https://arxiv.org/pdf/2404.04326
-    image: ./assets/img/hypogenic_figure1_large_font-1-1.png
+    image: ./assets/img/radmm.png
     notes: Under Review at Mathematics of Operations Research
