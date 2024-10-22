@@ -12,6 +12,7 @@ main:
     conference_short: IEEE SLT 2024
     conference: IEEE Speech and Language Technologies Workshop 2024
     pdf: https://arxiv.org/pdf/2409.15897
+    image: ./assets/img/codec.png
 
   - title: "EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios"
     authors: <strong>Tejes Srivastava</strong>, Jiatong Shi, William Chen, Shinji Watanabe
