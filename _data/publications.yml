@@ -7,6 +7,12 @@ main:
     pdf: https://arxiv.org/pdf/2409.10858
     image: ./assets/img/police.png
 
+  - title: "ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech"
+    authors: Jiatong Shi, Jinchuan Tian, Yihan Wu, Jee-weon Jung, Jia Qi Yip, Yoshiki Masuyama, William Chen, Yuning Wu, Yuxun Tang, Massa Baali, Dareen Alharhi, Dong Zhang, Ruifan Deng, <strong>Tejes Srivastava</strong>, Haibin Wu, Alexander H. Liu, Bhiksha Raj, Qin Jin, Ruihua Song, Shinji Watanabe
+    conference_short: IEEE SLT 2024
+    conference: IEEE Speech and Language Technologies Workshop 2024
+    pdf: https://arxiv.org/pdf/2409.15897
+
   - title: "EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios"
     authors: <strong>Tejes Srivastava</strong>, Jiatong Shi, William Chen, Shinji Watanabe
     conference_short: Interspeech
