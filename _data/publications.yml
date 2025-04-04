@@ -24,18 +24,18 @@ main:
 
   - title: "Hypothesis Generation with Large Language Models"
     authors: Yangqiaoyu Zhou, Haokun Liu, <strong>Tejes Srivastava</strong>, Hongyuan Mei, Chenhao Tan
-    conference_short: Preprint
-    conference: Arxiv Preprint
+    conference_short: EMNLP
+    conference: NLP4Science Workshop at EMNLP
     pdf: https://arxiv.org/pdf/2404.04326
     code: https://github.com/ChicagoHAI/hypothesis_generation
     image: ./assets/img/hypogenic_figure1_large_font-1-1.png
-    notes: NLP4Science Workshop at EMNLP
+    notes: 
 
 
   - title: "A Riemannian ADMM"
     authors: Jiaxiang Li, Shiqian Ma, <strong>Tejes Srivastava</strong>
-    conference_short: Preprint
-    conference: Arxiv Preprint
+    conference_short: MOR
+    conference: Mathematics of Operations Research
     pdf: https://arxiv.org/pdf/2404.04326
     image: ./assets/img/radmm.png
-    notes: Under Review at Mathematics of Operations Research
+    notes:
