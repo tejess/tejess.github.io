@@ -18,6 +18,7 @@ My current research interests are in **Speech Processing and NLP**. Specifically
 - **Text:** understanding how LLMs work, LLMs for science/social science
 
 ## News
+- **[November. 2024]** Our paper "A Riemannian ADMM" is accepted to the Journal of Mathematics of Operations Research!
 - **[September. 2024]** The EFFUSE paper wins Best Paper at Interspeech 2024!
 - **[August. 2024]** 2 Papers (1 first authored) are accepted to SLT 2024!
 - **[June. 2024]** The EFFUSE paper is accepted at Interspeech 2024!
