@@ -6,7 +6,8 @@ layout: homepage
 
 Hello! I am a Predoctoral Master's Student at the University of Chicago where I am currently advised by [Chenhao Tan](https://chenhaot.com/). I have been fortunate to work alongside Professor [Shinji Watnabe](https://www.wavlab.org/) from Carnegie Mellon Univerity and [Karen Livescu](https://home.ttic.edu/~klivescu/) from TTIC on other collaborations.
 
-I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation and benchmarking.
+I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation and benchmarking. I am open to full time job opportunities working in 
+Language and/or Speech.
 
 If you are interested in collaborating or just talking, feel free to reach out to me at tejess@uchicago.edu!
 
